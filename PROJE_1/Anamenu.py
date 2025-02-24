@@ -1,6 +1,10 @@
-import Altmenu1
-import Altmenu2
-import Altmenu3
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+import Moduller.Altmenu1 as Altmenu1
+import Moduller.Altmenu2 as Altmenu2
+import Moduller.Altmenu3 as Altmenu3
 import sys
 
 def anamenu():
