@@ -1,2 +1,2 @@
-# Projectdosyal-
-alt menülü dosyalı kısa
+# Projectl-
+alt menülü dosya
